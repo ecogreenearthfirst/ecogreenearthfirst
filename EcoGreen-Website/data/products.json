@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "15-Inch Sitting Plate (Vistaraku)",
+    "pack": "19 Plates per pack",
+    "price": 125,
+    "image": "images/vistaraku15.jpg"
+  },
+  {
+    "id": 2,
+    "name": "14-Inch Buffet Plates",
+    "pack": "19 Plates per pack",
+    "price": 147.00,
+    "image": "images/buffet14.jpg"
+  },
+  {
+    "id": 3,
+    "name": "12-Inch Buffet Plates",
+    "pack": "19 Plates per pack",
+    "price": 130.00,
+    "image": "images/buffet12.jpg"
+  },
+   {
+    "id": 4,
+    "name": "10-Inch Tiffin Square Plates",
+    "pack": "19 Plates per pack",
+    "price": 120.00,
+    "image": "images/Tiffin10.png"
+  }
+]
